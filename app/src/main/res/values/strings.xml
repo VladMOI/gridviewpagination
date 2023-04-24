@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GridViewPagination</string>
+    <string name="generate_some_data">Generate some data</string>
+    <string name="show_data">show data</string>
+    <string name="data">Data:</string>
+    <string name="more_data">More data:</string>
+</resources>
